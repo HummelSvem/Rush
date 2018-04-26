@@ -1,7 +1,7 @@
 name: MLGRush
 version: 1.0
-author: zGodSky
-api: [3.0.0-ALPHA11]
+author: Sky
+api: [3.0.0-ALPHA12]
 main: SkyZoneMC\MLGRush\MLGRush
 description: 'MLGRush'
 commands:
